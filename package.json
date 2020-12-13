@@ -1,0 +1,16 @@
+{
+  "name": "simpledrawer",
+  "version": "1.0.0",
+  "description": "a simple drawing thing",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "NRRINC media",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^11.1.0",
+    "jquery": "^3.5.1",
+    "nodejs": "0.0.0"
+  }
+}
