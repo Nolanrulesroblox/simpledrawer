@@ -52,7 +52,7 @@ switch (obj.id) {
         x = "white";
         break;
 }
-if (x == "white") y = 14;
+if (x == "white") y = 55;
 else y = 2;
 
 }
